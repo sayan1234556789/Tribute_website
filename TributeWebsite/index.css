@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    text-align: center;
+}
+.picture{
+    height: 599px;
+    width: 480px;
+    max-width: 100%;
+    border-radius: 25px;
+    
+}
+#gandhi{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: 4rem;
+    color: black;
+    text-decoration: underline;
+}
+#gangster{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: 2rem;
+    color: black;
+}
+body{
+    background-color: bisque;
+}
+.early{
+    font-size: 1.6rem;
+    text-align: left;
+}
+.summary{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: 2.8rem;
+    margin: 50px 0 25px 0;
+    text-align: center;
+}
+h3{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: 2rem;
+    font-weight: 600px;
+    margin: 40px 0px 5px 0px;
+    color: black;
+}
+
